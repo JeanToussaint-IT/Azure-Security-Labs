@@ -1,2 +1,12 @@
 # Azure-Security-Labs
-Hands-on projects from my Microsoft AZ-500 and SC-200 training. Includes Azure Sentinel KQL queries, Defender for Cloud configurations, and PowerShell scripts for automating cloud security policies and alerts.
+Hands-on cloud security projects based on the Microsoft AZ-500 certification and real-world Azure environments. Includes step-by-step configurations, scripts, and documentation for securing hybrid cloud infrastructure.
+
+What to include:
+
+Configuring Azure Firewall and Network Security Groups
+
+Setting up Conditional Access and Role-Based Access Control (RBAC)
+
+Monitoring alerts with Microsoft Sentinel
+
+Automating security policies using PowerShell and JSON template
